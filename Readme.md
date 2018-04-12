@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алёна Геллер](https://up.htmlacademy.ru/adaptive/14/user/296553).
-* Наставник: `Лиза Позднякова`.
+* Наставник: `Лиза Позднякова`(https://htmlacademy.ru/profile/lizzy).
 
 ---
 
