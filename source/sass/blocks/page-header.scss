@@ -1,0 +1,27 @@
+
+.page-header__wrapper {
+  position: relative;
+
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.page-header__logo {
+  display: flex;
+  align-items: center;
+  width: 191px;
+  height: 38px;
+  padding-top: 11px;
+  padding-bottom: 16px;
+}
+
+.page-header__logo-image {
+  width: 33px;
+  height: 38px;
+}
+
+.page-header__logo-name {
+  width: 101px;
+  height: 18px;
+}
+
+

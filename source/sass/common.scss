@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-size: 14px;
+  line-height: 18px;
+  font-family: $font-face;
+  color: #444444;
+  background-color: #ffffff;
+
+  min-width: 320px;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
