@@ -1,0 +1,51 @@
+.programm-search {
+  margin-bottom: 20px;
+}
+
+.programm-search__wrapper {
+  text-align: center;
+  min-height: 305px;
+  padding-top: 32px;
+  background-color: #63a73a;
+  background-image: url("../img/index-background-mobile@1x.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.programm-search__intro {
+  margin: 0;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 36px;
+}
+
+.programm-search__slogan {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.programm-img__wrapper {
+  position: relative;
+}
+.programm-img {
+  position: absolute;
+  width: 280px;
+  height: 270px;
+}
+
+.btn programm-img__link {
+  align-self: center;
+  width: 280px;
+  padding-top: 13px;
+  padding-bottom: 11px;
+
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
